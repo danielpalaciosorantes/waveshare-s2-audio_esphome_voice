@@ -294,7 +294,7 @@ audio_adc:
 external_components:
   - source:
       type: git
-      url: "https://github.com/sw3Dan/waveshare-s2-audio_esphome_voice"
+      url: "https://github.com/danielpalaciosorantes/waveshare-s2-audio_esphome_voice"
       ref: main
     components: [ es8311 ]
     refresh: 0s
